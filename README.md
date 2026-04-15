@@ -1,10 +1,48 @@
-# DS Internship Journey
+# 📊 DS Internship Journey
 
 ## About
-Learning Data Science from scratch - from basic Python to Machine Learning.
+This repository contains my learning journey in Data Science.  
+I am currently learning step-by-step and uploading my practice work and projects.
 
-## Topics Covered
-- Day 1-2: Data Analysis, Cleaning, EDA, Visualization
+---
 
-## Tools Used
-- Python, Pandas, Numpy, Matplotlib, Seaborn
+## What I Have Learned
+
+### Data Analysis (EDA)
+- Understanding datasets  
+- Using value_counts()  
+- Using groupby() for analysis  
+- Basic data cleaning  
+
+---
+
+### Titanic Dataset Project
+- Survival analysis  
+- Gender-wise survival comparison  
+- Class-wise survival comparison  
+- Basic data visualization using seaborn  
+
+---
+
+## Tools & Technologies
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+
+---
+
+## Projects in this Repository
+- Data_analysis_EDA.ipynb  
+- titanic.ipynb  
+
+---
+
+## My Goal
+To become a Data Scientist by learning and practicing consistently.
+
+---
+
+## Note
+This repository will be updated regularly as I learn new concepts and improve my skills.
