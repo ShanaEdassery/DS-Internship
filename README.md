@@ -1,48 +1,31 @@
-# 📊 DS Internship Journey
+# DS Internship Journey
 
 ## About
-This repository contains my learning journey in Data Science.  
-I am currently learning step-by-step and uploading my practice work and projects.
+Learning Data Science from scratch - from basic Python 
+to Machine Learning. Documenting every step of the journey.
 
----
+## Projects
 
-## What I Have Learned
+### 1. Employee Data Analysis (Day 1-2)
+- Created and analyzed employee dataset
+- Performed data cleaning and EDA
+- Visualized salary and performance insights
+- Found Charlie was overpaid, Diana was underpaid
 
-### Data Analysis (EDA)
-- Understanding datasets  
-- Using value_counts()  
-- Using groupby() for analysis  
-- Basic data cleaning  
+### 2. Titanic EDA (Day 3)
+- Analyzed 891 real Titanic passengers
+- Found women survived 74% vs men 19%
+- Found rich passengers survived more than poor
+- Confirmed "Women and children first" rule with data
 
----
+## Skills Learned So Far
+- Python, Pandas, Numpy
+- Data Cleaning
+- EDA (Exploratory Data Analysis)
+- Matplotlib and Seaborn visualization
 
-### Titanic Dataset Project
-- Survival analysis  
-- Gender-wise survival comparison  
-- Class-wise survival comparison  
-- Basic data visualization using seaborn  
+## Tools
+- Python, Jupyter Notebook, GitHub
 
----
-
-## Tools & Technologies
-- Python  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook  
-
----
-
-## Projects in this Repository
-- Data_analysis_EDA.ipynb  
-- titanic.ipynb  
-
----
-
-## My Goal
-To become a Data Scientist by learning and practicing consistently.
-
----
-
-## Note
-This repository will be updated regularly as I learn new concepts and improve my skills.
+## Goal
+Become a Data Scientist 🎯
