@@ -18,11 +18,18 @@ to Machine Learning. Documenting every step of the journey.
 - Found rich passengers survived more than poor
 - Confirmed "Women and children first" rule with data
 
+### 3. Statistical Analysis on Titanic (Day 4)
+- Applied descriptive statistics on Titanic data
+- Found fare had 116 outliers up to 512
+- Correlation showed fare and class affected survival most
+- Age distribution was almost normal with slight right skew
+
 ## Skills Learned So Far
 - Python, Pandas, Numpy
 - Data Cleaning
 - EDA (Exploratory Data Analysis)
 - Matplotlib and Seaborn visualization
+- Descriptive Statistics
 
 ## Tools
 - Python, Jupyter Notebook, GitHub
