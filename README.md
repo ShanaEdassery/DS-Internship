@@ -18,7 +18,7 @@ Currently building strong foundational skills through hands-on projects and real
 
 ### 1. 📊 Employee Data Analysis (Day 1–2)
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/ShanaEdassery/DS-Internship/blob/main/Data_analysis_EDA.ipynb)
 
 **Goal:** Analyze employee salary and performance data  
 **Dataset:** Custom dataset (5 employees)
@@ -36,7 +36,7 @@ Pandas, Data Cleaning, EDA, Matplotlib, Seaborn
 
 ### 2. 🚢 Titanic Exploratory Data Analysis (Day 3)
 
-🔗 [View Project](#)
+🔗 [View Project]()
 
 **Goal:** Identify survival patterns in Titanic dataset  
 **Dataset:** 891 passengers, 12 features
