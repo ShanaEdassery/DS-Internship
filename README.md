@@ -1,100 +1,118 @@
-# 🎯 DS Internship Journey
+# 🎯 Data Science Internship Journey
 
-> Learning Data Science from scratch — from basic Python to Machine Learning
+Learning Data Science from scratch — from Python basics to Machine Learning
 
 ---
 
 ## 👩‍💻 About Me
+
 **Shana Edassery**  
-Computer Science Undergraduate | 2nd Year  
-Passionate about Data Science, Analysis and Machine Learning  
-Currently building foundational DS skills through hands-on projects
+Computer Science Undergraduate (2nd Year)
+
+Aspiring Data Scientist passionate about Data Analysis and Machine Learning.  
+Currently building strong foundational skills through hands-on projects and real datasets.
 
 ---
 
-
-
 ## 📁 Projects
 
-### 1. 📊 Employee Data Analysis (Day 1-2)
-**Goal:** Analyze employee salary and performance data  
-**Dataset:** Custom 5-employee dataset  
-**Key Findings:**
-- Charlie was highest paid but lowest performer (overpaid)
-- Diana had best performance but not highest salary (underpaid)
-- HR and Sales departments had similar salary ranges
+### 1. 📊 Employee Data Analysis (Day 1–2)
 
-**Skills Used:** Pandas, Data Cleaning, EDA, Matplotlib, Seaborn
+🔗 [View Project](#)
+
+**Goal:** Analyze employee salary and performance data  
+**Dataset:** Custom dataset (5 employees)
+
+**Key Insights:**
+- Identified salary-performance mismatch in multiple employees
+- Charlie: highest salary but lowest performance (overpaid)
+- Diana: highest performance but not highest salary (underpaid)
+- Similar salary distribution across HR and Sales departments
+
+**Skills Used:**  
+Pandas, Data Cleaning, EDA, Matplotlib, Seaborn
 
 ---
 
 ### 2. 🚢 Titanic Exploratory Data Analysis (Day 3)
-**Goal:** Find survival patterns in real Titanic passenger data  
-**Dataset:** 891 passengers, 12 columns  
-**Key Findings:**
-- Females survived 74% vs males only 19%
-- Class 1 (rich) survived 63% vs Class 3 (poor) only 24%
-- Children (0-10) survived more than adults
-- Higher fare = better survival chances
-- "Women and children first" rule confirmed by data
 
-**Skills Used:** Pandas, EDA, Seaborn, Matplotlib, Data Cleaning
+🔗 [View Project](#)
 
----
+**Goal:** Identify survival patterns in Titanic dataset  
+**Dataset:** 891 passengers, 12 features
 
-### 3. 📈 Statistical Analysis on Titanic (Day 4-5)
-**Goal:** Apply statistics to prove findings scientifically  
-**Dataset:** Titanic (891 passengers)  
-**Key Findings:**
-- Average passenger age was 29.36 (slightly right skewed)
-- Fare had 116 outliers — rich passengers paid up to 512
-- Fare correlated most with survival (0.26)
-- Hypothesis Test PROVED female survival was real not luck
-- P-value = 0.000000 (way below 0.05 threshold)
-- 95% Confidence Interval: true female survival = 69% to 79%
+**Key Insights:**
+- Female survival rate (~74%) significantly higher than male (~19%)
+- First-class survival (~63%) much higher than third class (~24%)
+- Children (age 0–10) had higher survival rates
+- Positive relationship between fare and survival probability
+- Analysis supports “women and children first” pattern
 
-**Skills Used:** Pandas, Numpy, Scipy, Statistics, Hypothesis Testing
+**Skills Used:**  
+Pandas, Data Cleaning, EDA, Matplotlib, Seaborn
 
 ---
 
-## 🛠️ Skills Learned
+### 3. 📈 Statistical Analysis on Titanic (Day 4–5)
+
+🔗 [View Project](#)
+
+**Goal:** Validate findings using statistical methods  
+**Dataset:** Titanic dataset (891 passengers)
+
+**Key Insights:**
+- Mean age ≈ 29.36 with slight right skew
+- Detected 116 outliers in Fare using IQR method (max ≈ 512)
+- Fare shows moderate correlation with survival (~0.26)
+- Performed independent t-test on gender vs survival
+- Found statistically significant difference (p < 0.05)
+- 95% confidence interval for female survival: 69% – 79%
+
+**Skills Used:**  
+Pandas, NumPy, SciPy, Statistics, Hypothesis Testing
+
+---
+
+## 🛠️ Skills
 
 ### Programming
-- Python
-- Pandas
-- Numpy
-- Scipy
+- Python  
+- Pandas  
+- NumPy  
+- SciPy  
 
 ### Data Analysis
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Descriptive Statistics
-- Hypothesis Testing
-- Confidence Intervals
-- Outlier Detection
-- Correlation Analysis
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Descriptive Statistics  
+- Hypothesis Testing  
+- Confidence Intervals  
+- Outlier Detection (IQR)  
+- Correlation Analysis  
 
 ### Visualization
-- Matplotlib
-- Seaborn
-- Bar plots, Histograms, Box plots.
-
-### Tools
-- Jupyter Notebook
-- GitHub
+- Matplotlib  
+- Seaborn  
+- Bar Plots, Histograms, Box Plots  
 
 ---
 
-## 📚 Coming Soon
-- SQL for Data Analysis
-- Machine Learning with Scikit-learn
-- End-to-End Data Science Project
+## ⚙️ Tools
+- Jupyter Notebook  
+- GitHub  
+
+---
+
+## 📚 Next Steps
+- SQL for Data Analysis  
+- Machine Learning (Scikit-learn)  
+- End-to-End Data Science Project  
 
 ---
 
 ## 🎯 Goal
-Become a Data Scientist and work at a top tech company
+Become a Data Scientist and contribute to impactful real-world projects
 
 ---
 
-*Updated regularly as I learn and grow* 🌱
+*This repository is updated regularly as I learn and grow 🌱*
