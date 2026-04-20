@@ -36,7 +36,7 @@ Pandas, Data Cleaning, EDA, Matplotlib, Seaborn
 
 ### 2. 🚢 Titanic Exploratory Data Analysis (Day 3)
 
-🔗 [View Project]()
+🔗 [View Project](https://github.com/ShanaEdassery/DS-Internship/blob/main/titanic.ipynb)
 
 **Goal:** Identify survival patterns in Titanic dataset  
 **Dataset:** 891 passengers, 12 features
@@ -55,7 +55,7 @@ Pandas, Data Cleaning, EDA, Matplotlib, Seaborn
 
 ### 3. 📈 Statistical Analysis on Titanic (Day 4–5)
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/ShanaEdassery/DS-Internship/blob/main/day4_statistics_Titanic.ipynb)
 
 **Goal:** Validate findings using statistical methods  
 **Dataset:** Titanic dataset (891 passengers)
