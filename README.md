@@ -1,14 +1,11 @@
 # 🎯 Data Science Internship Journey
-
 Learning Data Science from scratch — from Python basics to Machine Learning
 
 ---
 
 ## 👩‍💻 About Me
-
 **Shana Edassery**  
 Computer Science Undergraduate (2nd Year)
-
 Aspiring Data Scientist passionate about Data Analysis and Machine Learning.  
 Currently building strong foundational skills through hands-on projects and real datasets.
 
@@ -17,7 +14,6 @@ Currently building strong foundational skills through hands-on projects and real
 ## 📁 Projects
 
 ### 1. 📊 Employee Data Analysis (Day 1–2)
-
 🔗 [View Project](https://github.com/ShanaEdassery/DS-Internship/blob/main/Data_analysis_EDA.ipynb)
 
 **Goal:** Analyze employee salary and performance data  
@@ -35,7 +31,6 @@ Pandas, Data Cleaning, EDA, Matplotlib, Seaborn
 ---
 
 ### 2. 🚢 Titanic Exploratory Data Analysis (Day 3)
-
 🔗 [View Project](https://github.com/ShanaEdassery/DS-Internship/blob/main/titanic.ipynb)
 
 **Goal:** Identify survival patterns in Titanic dataset  
@@ -46,7 +41,7 @@ Pandas, Data Cleaning, EDA, Matplotlib, Seaborn
 - First-class survival (~63%) much higher than third class (~24%)
 - Children (age 0–10) had higher survival rates
 - Positive relationship between fare and survival probability
-- Analysis supports “women and children first” pattern
+- Analysis supports "women and children first" pattern
 
 **Skills Used:**  
 Pandas, Data Cleaning, EDA, Matplotlib, Seaborn
@@ -54,7 +49,6 @@ Pandas, Data Cleaning, EDA, Matplotlib, Seaborn
 ---
 
 ### 3. 📈 Statistical Analysis on Titanic (Day 4–5)
-
 🔗 [View Project](https://github.com/ShanaEdassery/DS-Internship/blob/main/day4_statistics_Titanic.ipynb)
 
 **Goal:** Validate findings using statistical methods  
@@ -73,40 +67,68 @@ Pandas, NumPy, SciPy, Statistics, Hypothesis Testing
 
 ---
 
+### 4. 🤖 Titanic Survival Prediction — ML Model (Day 6)
+🔗 [View Project](https://github.com/ShanaEdassery/DS-Internship/blob/main/ml_prediction_titanic.ipynb)
+
+**Goal:** Build ML model to predict Titanic survival  
+**Dataset:** 891 passengers, 6 features  
+**Algorithm:** Logistic Regression
+
+**Key Results:**
+- Model Accuracy: 81.01%
+- Correctly predicted 145 out of 179 passengers
+- Model stronger at predicting death than survival
+- Confirmed EDA findings: gender and class = strongest predictors
+
+**Skills Used:**  
+Scikit-learn, Logistic Regression, Train/Test Split,
+Model Evaluation, Confusion Matrix
+
+---
+
 ## 🛠️ Skills
 
 ### Programming
-- Python  
-- Pandas  
-- NumPy  
-- SciPy  
+- Python
+- Pandas
+- NumPy
+- SciPy
 
 ### Data Analysis
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Descriptive Statistics  
-- Hypothesis Testing  
-- Confidence Intervals  
-- Outlier Detection (IQR)  
-- Correlation Analysis  
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Hypothesis Testing
+- Confidence Intervals
+- Outlier Detection (IQR)
+- Correlation Analysis
+
+### Machine Learning
+- Supervised Learning
+- Logistic Regression
+- Train/Test Split (80/20)
+- Model Evaluation
+- Confusion Matrix Analysis
+- Scikit-learn
 
 ### Visualization
-- Matplotlib  
-- Seaborn  
-- Bar Plots, Histograms, Box Plots  
+- Matplotlib
+- Seaborn
+- Bar Plots, Histograms, Box Plots, Heatmaps
 
 ---
 
 ## ⚙️ Tools
-- Jupyter Notebook  
-- GitHub  
+- Jupyter Notebook
+- GitHub
+- Scikit-learn
 
 ---
 
 ## 📚 Next Steps
-- SQL for Data Analysis  
-- Machine Learning (Scikit-learn)  
-- End-to-End Data Science Project  
+- SQL for Data Analysis
+- Advanced ML Algorithms
+- End-to-End Data Science Project
 
 ---
 
