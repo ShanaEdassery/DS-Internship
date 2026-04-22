@@ -1,11 +1,11 @@
 # 🎯 Data Science Internship Journey
-Learning Data Science from scratch — from Python basics to Machine Learning
+> Learning Data Science from scratch — from Python basics to Machine Learning
 
 ---
 
 ## 👩‍💻 About Me
 **Shana Edassery**  
-Computer Science Undergraduate (2nd Year)
+Computer Science Undergraduate (2nd Year)  
 Aspiring Data Scientist passionate about Data Analysis and Machine Learning.  
 Currently building strong foundational skills through hands-on projects and real datasets.
 
@@ -67,22 +67,33 @@ Pandas, NumPy, SciPy, Statistics, Hypothesis Testing
 
 ---
 
-### 4. 🤖 Titanic Survival Prediction — ML Model (Day 6)
-🔗 [View Project](https://github.com/ShanaEdassery/DS-Internship/blob/main/ml_prediction_titanic.ipynb)
+### 4. 🤖 Titanic Survival Prediction — ML Study (Day 6)
+🔗 [View Project](https://github.com/ShanaEdassery/DS-Internship/blob/main/ml_titanic_prediction.ipynb)
 
-**Goal:** Build ML model to predict Titanic survival  
-**Dataset:** 891 passengers, 6 features  
-**Algorithm:** Logistic Regression
+**Goal:** Build and compare ML classification models  
+**Dataset:** 891 Titanic passengers, 6 features  
+**Type:** Supervised Learning — Binary Classification
 
-**Key Results:**
-- Model Accuracy: 81.01%
-- Correctly predicted 145 out of 179 passengers
-- Model stronger at predicting death than survival
-- Confirmed EDA findings: gender and class = strongest predictors
+**Model Comparison:**
+
+| Model | Configuration | Accuracy |
+|-------|--------------|---------|
+| Logistic Regression | max_iter=1000 | **81.01%** ✅ Winner |
+| Decision Tree | max_depth=3 | 79.89% |
+| Decision Tree | max_depth=5 | 80.45% |
+| Decision Tree | max_depth=10 | 78.21% ❌ Overfit |
+
+**Key Findings:**
+- Logistic Regression outperformed all Decision Tree variants
+- Overfitting detected at Decision Tree depth 10
+- Simpler models can outperform complex ones
+- Gender and class were strongest survival predictors
+- Decision Tree visualization confirmed EDA findings
 
 **Skills Used:**  
-Scikit-learn, Logistic Regression, Train/Test Split,
-Model Evaluation, Confusion Matrix
+Scikit-learn, Logistic Regression, Decision Tree,
+Model Evaluation, Confusion Matrix, Overfitting Detection,
+Hyperparameter Tuning, Model Comparison
 
 ---
 
@@ -104,11 +115,14 @@ Model Evaluation, Confusion Matrix
 - Correlation Analysis
 
 ### Machine Learning
-- Supervised Learning
+- Supervised Learning (Binary Classification)
 - Logistic Regression
+- Decision Tree Classifier
+- Hyperparameter Tuning (max_depth)
 - Train/Test Split (80/20)
-- Model Evaluation
+- Model Evaluation & Comparison
 - Confusion Matrix Analysis
+- Overfitting Detection & Prevention
 - Scikit-learn
 
 ### Visualization
@@ -126,9 +140,10 @@ Model Evaluation, Confusion Matrix
 ---
 
 ## 📚 Next Steps
+- End-to-End Data Science Project
 - SQL for Data Analysis
 - Advanced ML Algorithms
-- End-to-End Data Science Project
+- Deep Learning Fundamentals
 
 ---
 
