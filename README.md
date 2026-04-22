@@ -68,7 +68,7 @@ Pandas, NumPy, SciPy, Statistics, Hypothesis Testing
 ---
 
 ### 4. 🤖 Titanic Survival Prediction — ML Study (Day 6)
-🔗 [View Project](https://github.com/ShanaEdassery/DS-Internship/blob/main/ml_titanic_prediction.ipynb)
+🔗 [View Project](https://github.com/ShanaEdassery/DS-Internship/blob/main/ml_prediction_titanic.ipynb)
 
 **Goal:** Build and compare ML classification models  
 **Dataset:** 891 Titanic passengers, 6 features  
